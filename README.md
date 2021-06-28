@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @v-tamln
-- 👀 I’m interested in robotics.
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Tam from VinAI
+- 👀 I’m interested in robotics and AV stacks.
+- 🌱 I’m currently learning C++/Python/Advanced Motion Planning algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at v.tamln@vinai.io.
 
 <!---
 v-tamln/v-tamln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
